@@ -31,7 +31,7 @@ This needs to be adjusted: in launch/ackermann_drive_example.launch.py
 
 
 # Workspace Structure
-'''
+```
 ├── launch
 │   ├── ackermann_drive_example.launch.py
 │   └── __pycache__
@@ -58,7 +58,7 @@ This needs to be adjusted: in launch/ackermann_drive_example.launch.py
     ├── emtpy_export.sdf (World containing the Racetrack texture as Ground)
     ├── racetrack.png (Racetrack Texture)
     └── racetrack.svg (Inkscape Graphic containing the Ractrack)
-'''
+```
 
 
 # Useful for Development
